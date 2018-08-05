@@ -9,7 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "body-parser": "^1.18.3",
     "bunyan": "^1.5.1",
+    "express": "^4.16.3",
     "primus": "^4.0.4",
     "primus-emitter": "^3.1.1",
     "ws": "^1.0.0"
